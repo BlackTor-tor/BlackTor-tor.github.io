@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>黑洋葱</title>
+  
+  <subtitle>黑洋葱的博客</subtitle>
+  <link href="https://www.blacktor.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.blacktor.cn/"/>
+  <updated>2025-03-03T09:10:24.206Z</updated>
+  <id>https://www.blacktor.cn/</id>
+  
+  <author>
+    <name>BlackTor</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.blacktor.cn/null/hello-world/"/>
+    <id>https://www.blacktor.cn/null/hello-world/</id>
+    <published>2025-02-25T16:22:19.216Z</published>
+    <updated>2025-03-03T09:10:24.206Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World。</p><p>大家好。</p><p>这是我的第一篇博客，谨以此在互联网留下我的痕迹。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello World。&lt;/p&gt;
+&lt;p&gt;大家好。&lt;/p&gt;
+&lt;p&gt;这是我的第一篇博客，谨以此在互联网留下我的痕迹。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="其它" scheme="https://www.blacktor.cn/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+    <category term="其它" scheme="https://www.blacktor.cn/tags/%E5%85%B6%E5%AE%83/"/>
+    
+  </entry>
+  
+</feed>
